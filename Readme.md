@@ -2,9 +2,9 @@
 
 ## I'm Student and Developer
 
-- 🏢 I'm currently working in [Senseteq](https://senseteq.io) 🇳🇴 
-- 🏫 I'm currently studying in [Khmelnytsky National University](https://www.khnu.km.ua/root/page.aspx) 🇺🇦
-- ⚡️ Facts:
+- 🏢&nbsp;I'm currently working in [Senseteq] 🇳🇴 
+- 🏫&nbsp;I'm currently studying in [Khmelnytsky National University] 🇺🇦
+- ⚡️&nbsp;Facts:
     - Like traveling 🌄
     - Learning playing on guitar 🎸
     - Interesting in quadcopters especially in FPV flying 💸
@@ -12,7 +12,7 @@
     
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maxim-makarov-4292ab1b7/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 
 <br/>
 
@@ -32,3 +32,8 @@
 <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
 
+
+
+[Senseteq]: https://senseteq.io
+[Khmelnytsky National University]: https://www.khnu.km.ua/root/page.aspx
+[Linkedin]: https://www.linkedin.com/in/maxim-makarov-4292ab1b7/
