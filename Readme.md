@@ -1,6 +1,6 @@
-###Hi, I'm Max 👋
+### Hi, I'm Max 👋
 
-##I'm Student and Developer
+## I'm Student and Developer
 
 ----
 
@@ -12,7 +12,7 @@
     - Interesting in quadcopters especially in FPV flying 💸
     - Techno geek 🙈
     
-###Connect with me:
+### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maxim-makarov-4292ab1b7/)
 
