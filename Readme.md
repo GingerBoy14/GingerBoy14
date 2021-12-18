@@ -35,7 +35,7 @@
 
 ----
 
-![GingerBoy14 stats](https://github-readme-stats.vercel.app/api?username=GingerBoy14&show_icons=true)
+[![GingerBoy14 stats](https://github-readme-stats.vercel.app/api?username=GingerBoy14&show_icons=true)]()
 
 
 
