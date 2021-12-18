@@ -2,8 +2,6 @@
 
 ## I'm Student and Developer
 
-----
-
 - 🏢 I'm currently working in [Senseteq](https://senseteq.io) 🇳🇴 
 - 🏫 I'm currently studying in [Khmelnytsky National University](https://www.khnu.km.ua/root/page.aspx) 🇺🇦
 - ⚡️ Facts:
@@ -17,8 +15,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/maxim-makarov-4292ab1b7/)
 
 <br/>
-
-----
 
 ### Languages and Tools:
 
